@@ -1,0 +1,17 @@
+{
+  "name": "electronapp",
+  "productName": "My First Electron App",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Jennifer Jackson",
+  "license": "ISC",
+  "description": "task list",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+   
+}
